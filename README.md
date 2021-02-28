@@ -1,5 +1,6 @@
 # COVID_alteryx
 <img src="COVID_alteryx.png">
+
 # Simple workflow build that does the following:
   1. Dynamically selects the latest COVID data download
   2. Cleans and manipulates the data
