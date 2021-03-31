@@ -1,4 +1,4 @@
-# COVID_alteryx
+# Alteryx Workflow for COVID Dashboard 
 <img src="COVID_alteryx.png">
 
 # Simple workflow build that does the following:
